@@ -1,6 +1,3 @@
-Here's a sweet README for a book management app, designed to be engaging and informative:
-
------
 
 # 📚 Bookworm Haven
 
